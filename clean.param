@@ -1,0 +1,8 @@
+cleaning: 14 7
+iacts: 0 1 2 3 4
+input_file: taiga599
+folder: /hdd/IACTs/Corsika/readbin/data/new_cone/1km/
+gamma: 1
+add_to_out_name: 1km_xmax
+edge: 1 # 0 - without edges, 1 for any edge
+size: 0
